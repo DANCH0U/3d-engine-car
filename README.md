@@ -2,7 +2,7 @@
 
 A lightweight 3D kart game built on top of a **custom 3D engine wrapper** integrating **Three.js** and **Cannon.js**. It features object-oriented entity architecture, post-processing visuals, dynamic lighting, custom input handling, and 3D positional audio.
 
-🔗 **[Play Live Demo](https://your-game.vercel.app)**
+🔗 **[Play Live Demo](https://3d-engine-car.vercel.app/)**
 
 ---
 
